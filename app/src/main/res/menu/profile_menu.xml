@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home_icon"
+        />
+
+    <item
+        android:id="@+id/Profile"
+        android:title="Profile"
+        android:icon="@drawable/profile"
+        />
+
+
+    <item
+        android:id="@+id/Fav"
+        android:title="Favourite"
+        android:icon="@drawable/favorite_icon"
+        />
+    <item
+        android:id="@+id/About"
+        android:title="About Us"
+        android:icon="@drawable/aboutus"
+        />
+
+    <item
+        android:id="@+id/LoginMenu"
+        android:title="Login"
+        android:icon="@drawable/login_icon"
+        />
+    <item android:id="@+id/signoutuser"
+        android:title="Signout"
+        android:icon="@drawable/outline_logout"
+        />
+
+</menu>
